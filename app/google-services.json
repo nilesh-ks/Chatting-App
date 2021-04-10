@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262414054645",
+    "project_id": "chatapp-2c6fa",
+    "storage_bucket": "chatapp-2c6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262414054645:android:83793e15902183625641bc",
+        "android_client_info": {
+          "package_name": "com.internshala.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262414054645-unrpisvlt9hi7tnij5arv434f9trc8st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACAnQJPUvmYRnlL4iP-KyXz4zf3CGSLPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262414054645-unrpisvlt9hi7tnij5arv434f9trc8st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
